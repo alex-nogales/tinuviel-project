@@ -15,17 +15,6 @@ def minimuim_bribes(q):
             return 
     print(bribes)
 
-
-
-0 0
-1 1
-2 4
-3 2
-4 6
-5 7
-6 5
-7 3
-
 '''
 
 def minimuim_bribes(q):
